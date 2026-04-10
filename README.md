@@ -29,10 +29,10 @@ A SOC (Security Operations Center) simulation dashboard that mimics real-world c
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/admin.png)
 
 ### Incident Management (Admin)
-![Admin](screenshots/admin.png)
+![Admin](screenshots/dashboard.png)
 
 ### User View (Restricted Access)
 ![User](screenshots/user.png)
